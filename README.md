@@ -1,6 +1,6 @@
 # Estu
 This is a multipage  application  which provides students various functionalities like creating and printing a resume, creating a web profile, connecting with alumni and much more. 
-This is the homepage.
+ HOME PAGE.
 ![homepage](https://user-images.githubusercontent.com/85127093/155860095-4be95bc4-c1d1-45b2-a3fa-c9642780169c.jpeg)'
 Signin/Singn up
 ![signin](https://user-images.githubusercontent.com/85127093/155860119-ae947e71-1512-4307-a4a1-607d18aa67a0.jpeg)
